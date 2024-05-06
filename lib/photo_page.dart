@@ -36,6 +36,9 @@ class _PhotoPageState extends State<PhotoPage> {
         child: Column(
           children: [
             SizedBox(height: 15),
+            Container(
+              color: yellow,
+            ),
           ],
         ),
       ),
